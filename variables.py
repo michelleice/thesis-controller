@@ -1,0 +1,10 @@
+VERSION_MAJOR = 1
+VERSION_MINOR = 0
+DEBUG = True
+
+AUTH_SERIAL_NUMBER = 'c8c5f78c-3827-4137-ad51-e7f5b3417b63'
+AUTH_PIN = '86272329'
+
+BASE_URL = 'https://thesis.michelleice.pro/api/v1/'
+
+START_TIME = 0
